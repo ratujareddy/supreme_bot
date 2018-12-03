@@ -19,10 +19,10 @@ In the file `SupremeMain.py`, I've created a list of products I would like to at
 
 ## Overview of the code
 
-`SupremeFunctions.py`:
-`getLink.py`:
-`productClass.py`:
-`SupremeMain.py`:
+`SupremeFunctions.py`: in the works
+`getLink.py`: in the works
+`productClass.py`: in the works
+`SupremeMain.py`: in the works
 
 
 
