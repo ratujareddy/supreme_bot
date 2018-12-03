@@ -19,10 +19,10 @@ In the file `SupremeMain.py`, I've created a list of products I would like to at
 
 ## Overview of the code
 
-`SupremeFunctions.py`: in the works
-`getLink.py`: in the works
-`productClass.py`: in the works
-`SupremeMain.py`: in the works
+- `SupremeFunctions.py`: Functions to purchase the product and fill billing information
+- `getLink.py`: Functions to retrieve the link of the product
+- `productClass.py`: Class of the `Product` object, as well as the `Card` object, and `Buyer` object
+- `SupremeMain.py`: Purchases product
 
 
 
