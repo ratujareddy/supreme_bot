@@ -30,7 +30,7 @@ def main():
 	supreme.shop_url = "http://www.supremenewyork.com/shop"
 	supreme.checkout_url = "http://www.supremenewyork.com/checkout"
 
-	home = BillingInfo("Ratuja Reddy", "ratuja@gmail.com", "789879879", "5486 S Ellis Ave", "Chicago", "60615")
+	home = BillingInfo("Ratuja Reddy", "ratuja@gmail.com", "789879879", "5555 S Main St", "Chicago", "60615")
 	debit = CardInfo("Mastercard", "5555222255559999", "03", "2020", "100")
 	ratuja = Buyer("Ratuja", home, debit)
  
